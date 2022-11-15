@@ -1,0 +1,20 @@
+Assets from Unity Asset Store:
+> AllSkyFree
+> AssetStoreOriginals
+> Free LowPoly SciFi Pack
+> Free Sound Pack (Free Pack)
+> Metal Textures Pack
+> Sci Fi Styled Modular Pack
+> SciFiWarriorPBRHPPolyart
+> Stagit
+> Standard Assets
+> XR
+Assets from Oculus:
+> Oculus Hands
+Assets from DaFont.com:
+> techno_hideo font
+
+Assets in _My Folders are either my own or modified versions that include assets from
+previously mentioned places.
+
+All Scripts utilized were either created in class, apart of unity, or my own creation!
